@@ -7,7 +7,7 @@ about:
   head: 
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:17:54Z
+  collectedAt: 2026-09-04T21:17:46Z
 timeline:
   created: 
   lastCommit: 
@@ -80,6 +80,69 @@ graphqlErrors:
   - Although you appear to have the correct authorization credentials, the `aquasecurity` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
   - Although you appear to have the correct authorization credentials, the `aquasecurity` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
 ---
+path: /home/runner/.x-repo/github.com/aquasecurity/trivy-operator
+collectedAt: 2026-09-04T21:17:49Z
+loc:
+  Go:
+    code: 37898
+    comments: 1528
+    blanks: 3322
+    files: 158
+  Yaml:
+    code: 25512
+    comments: 431
+    blanks: 295
+    files: 134
+  Json:
+    code: 1546
+    comments: 0
+    blanks: 0
+    files: 13
+  OpenPolicyAgent:
+    code: 815
+    comments: 627
+    blanks: 230
+    files: 30
+  Pan:
+    code: 74
+    comments: 0
+    blanks: 7
+    files: 1
+  Sh:
+    code: 48
+    comments: 6
+    blanks: 17
+    files: 3
+  Svg:
+    code: 42
+    comments: 1
+    blanks: 0
+    files: 2
+  Dockerfile:
+    code: 9
+    comments: 0
+    blanks: 6
+    files: 2
+  Html:
+    code: 7
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3363
+    blanks: 1108
+    files: 50
+  Text:
+    code: 0
+    comments: 65
+    blanks: 6
+    files: 4
+total:
+  code: 71280
+  comments: 6044
+  blanks: 4995
+  files: 398
 ---
 date: "2026-03-16"
 repo:
