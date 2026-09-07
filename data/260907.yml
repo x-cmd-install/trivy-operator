@@ -5,7 +5,7 @@ about:
   head: 
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T05:37:10Z
+  collectedAt: 2026-09-07T18:58:13Z
 timeline:
   created: 
   lastCommit: 
@@ -23,7 +23,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 4
-    openPR: 9
+    openPR: 10
     closedIssue: 0
     openIssue: 5
     commit: 0
@@ -31,7 +31,7 @@ recent:
     since: 2026-07-09
     release: 0
     mergedPR: 8
-    openPR: 12
+    openPR: 13
     closedIssue: 2
     openIssue: 8
     commit: 0
@@ -39,7 +39,7 @@ recent:
     since: 2026-06-09
     release: 0
     mergedPR: 21
-    openPR: 14
+    openPR: 15
     closedIssue: 3
     openIssue: 9
     commit: 0
@@ -47,7 +47,7 @@ recent:
     since: 2026-03-11
     release: 0
     mergedPR: 42
-    openPR: 25
+    openPR: 26
     closedIssue: 4
     openIssue: 15
     commit: 0
@@ -55,7 +55,7 @@ recent:
     since: 2025-09-12
     release: 0
     mergedPR: 98
-    openPR: 53
+    openPR: 54
     closedIssue: 12
     openIssue: 50
     commit: 0
@@ -63,7 +63,7 @@ recent:
     since: 2024-09-17
     release: 0
     mergedPR: 276
-    openPR: 72
+    openPR: 73
     closedIssue: 93
     openIssue: 90
     commit: 0
@@ -79,7 +79,7 @@ graphqlErrors:
   - Although you appear to have the correct authorization credentials, the `aquasecurity` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
 ---
 path: /home/runner/.x-repo/github.com/aquasecurity/trivy-operator
-collectedAt: 2026-09-07T05:37:14Z
+collectedAt: 2026-09-07T18:58:19Z
 loc:
   Go:
     code: 37898
@@ -255,7 +255,7 @@ checks:
       - 'Warn: 1 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:37:15+00:00
+  collectedAt: 2026-09-07T18:58:19+00:00
   platform:
     darwin/arm64:
       name:  null
