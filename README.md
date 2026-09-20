@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-![trivy-operator](https://repo.x-cmd.io/trivy-operator.svg)
+[![x-cmd/install — trivy-operator Code Quality Monitoring Repo Card](https://repo.x-cmd.io/trivy-operator.svg)](https://x-cmd.com/install/trivy-operator)
 
 ## Install
 
@@ -49,12 +49,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 4 | 10 | 0 | 5 | 0 |
-| last60d | 2026-07-20 | 0 | 7 | 13 | 2 | 8 | 0 |
-| 90d | 2026-06-20 | 0 | 15 | 15 | 3 | 10 | 0 |
-| last180d | 2026-03-22 | 0 | 40 | 26 | 3 | 15 | 0 |
-| 360d | 2025-09-23 | 0 | 91 | 55 | 8 | 50 | 0 |
-| last720d | 2024-09-28 | 0 | 275 | 74 | 90 | 88 | 0 |
+| 30d | 2026-08-21 | 0 | 2 | 11 | 0 | 7 | 0 |
+| last60d | 2026-07-22 | 0 | 7 | 14 | 2 | 11 | 0 |
+| 90d | 2026-06-22 | 0 | 12 | 17 | 3 | 13 | 0 |
+| last180d | 2026-03-24 | 0 | 40 | 27 | 3 | 17 | 0 |
+| 360d | 2025-09-25 | 0 | 90 | 57 | 8 | 53 | 0 |
+| last720d | 2024-09-30 | 0 | 275 | 76 | 89 | 91 | 0 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for trivy-operator lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:02:50Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:58:47Z._
