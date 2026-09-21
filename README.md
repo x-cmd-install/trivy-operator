@@ -49,12 +49,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 2 | 11 | 0 | 7 | 0 |
-| last60d | 2026-07-22 | 0 | 7 | 14 | 2 | 11 | 0 |
-| 90d | 2026-06-22 | 0 | 12 | 17 | 3 | 13 | 0 |
-| last180d | 2026-03-24 | 0 | 40 | 27 | 3 | 17 | 0 |
-| 360d | 2025-09-25 | 0 | 90 | 57 | 8 | 53 | 0 |
-| last720d | 2024-09-30 | 0 | 275 | 76 | 89 | 91 | 0 |
+| 30d | 2026-08-22 | 0 | 2 | 14 | 0 | 6 | 0 |
+| last60d | 2026-07-23 | 0 | 7 | 17 | 1 | 11 | 0 |
+| 90d | 2026-06-23 | 0 | 12 | 20 | 3 | 13 | 0 |
+| last180d | 2026-03-25 | 0 | 40 | 30 | 3 | 17 | 0 |
+| 360d | 2025-09-26 | 0 | 90 | 60 | 8 | 53 | 0 |
+| last720d | 2024-10-01 | 0 | 275 | 79 | 89 | 91 | 0 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for trivy-operator lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:58:47Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:14:11Z._
