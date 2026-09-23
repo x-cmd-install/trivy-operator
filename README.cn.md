@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-[![x-cmd/install — trivy-operator Code Quality Monitoring Repo Card](https://repo.x-cmd.io/trivy-operator.svg?lang=zh)](https://x-cmd.com/install/trivy-operator)
+[![x-cmd/install — trivy-operator Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/trivy-operator.svg?lang=zh)](https://x-cmd.com/install/trivy-operator)
 
 ## 安装
 
@@ -12,14 +12,14 @@ x install trivy-operator
 
 ## 代码洞察
 
-合计: **65,951** 行代码（覆盖前 5 种语言、共 **336** 个文件）。
+合计: **66,412** 行代码（覆盖前 5 种语言、共 **341** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 37,898 | 1,528 | 3,322 | 158 |
-| Yaml | 25,512 | 431 | 295 | 134 |
+| Go | 38,346 | 1,644 | 3,404 | 162 |
+| Yaml | 25,507 | 439 | 294 | 134 |
 | Json | 1,546 | 0 | 0 | 13 |
-| OpenPolicyAgent | 815 | 627 | 230 | 30 |
+| OpenPolicyAgent | 833 | 648 | 236 | 31 |
 | Pan | 74 | 0 | 7 | 1 |
 
 ## OpenSSF Scorecard 评分
@@ -49,12 +49,12 @@ x install trivy-operator
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 13 | 0 | 6 | 0 |
-| last60d | 2026-07-24 | 0 | 7 | 16 | 1 | 11 | 0 |
-| 90d | 2026-06-24 | 0 | 12 | 20 | 3 | 13 | 0 |
-| last180d | 2026-03-26 | 0 | 40 | 30 | 3 | 17 | 0 |
-| 360d | 2025-09-27 | 0 | 90 | 60 | 8 | 53 | 0 |
-| last720d | 2024-10-02 | 0 | 275 | 79 | 88 | 91 | 0 |
+| 30d | 2026-08-24 | 0 | 1 | 12 | 0 | 7 | 0 |
+| last60d | 2026-07-25 | 0 | 8 | 15 | 1 | 13 | 0 |
+| 90d | 2026-06-25 | 0 | 13 | 19 | 3 | 15 | 0 |
+| last180d | 2026-03-27 | 0 | 41 | 29 | 3 | 19 | 0 |
+| 360d | 2025-09-28 | 0 | 91 | 59 | 8 | 55 | 0 |
+| last720d | 2024-10-03 | 0 | 276 | 78 | 88 | 92 | 0 |
 
 ## 改进这些数据
 
@@ -65,4 +65,4 @@ trivy-operator 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:10:41Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:06:23Z._
