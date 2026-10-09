@@ -257,3 +257,4 @@ checks:
     reason: SAST tool is not run on all commits -- score normalized to 0
     details:
       - 'Warn: 1 commits out of 30 are checked with a SAST tool'
+---
