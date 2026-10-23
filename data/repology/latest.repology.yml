@@ -1,0 +1,16 @@
+- repo: altsisyphus
+  srcname: trivy-operator
+  binnames:
+    - trivy-operator
+    - trivy-operator-debuginfo
+  visiblename: trivy-operator
+  version: 0.35.0
+  origversion: 0.35.0-alt1
+  status: unique
+  summary: Kubernetes-native security toolkit
+  maintainers:
+    - serjigva@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Security/Networking
