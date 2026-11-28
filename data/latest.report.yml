@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:06:06Z
+  collectedAt: 2026-11-28T09:09:01Z
 timeline:
   created: 
   lastCommit: 
@@ -24,23 +24,23 @@ popularity:
   issue: 0
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 1
-    openPR: 15
+    openPR: 14
     closedIssue: 0
     openIssue: 5
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 12
-    openPR: 29
+    openPR: 28
     closedIssue: 0
     openIssue: 8
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 14
     openPR: 38
@@ -48,26 +48,26 @@ recent:
     openIssue: 15
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
-    mergedPR: 44
-    openPR: 48
+    mergedPR: 42
+    openPR: 49
     closedIssue: 3
     openIssue: 26
     commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 87
-    openPR: 76
+    openPR: 77
     closedIssue: 5
     openIssue: 47
     commit: 0
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 261
-    openPR: 103
+    openPR: 104
     closedIssue: 76
     openIssue: 95
     commit: 0
@@ -83,7 +83,7 @@ graphqlErrors:
   - Although you appear to have the correct authorization credentials, the `aquasecurity` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
 ---
 path: /home/runner/.x-repo/github.com/aquasecurity/trivy-operator
-collectedAt: 2026-11-27T09:06:11Z
+collectedAt: 2026-11-28T09:09:05Z
 loc:
   Go:
     code: 38346
